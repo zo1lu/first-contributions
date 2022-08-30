@@ -152,6 +152,7 @@
 - [Rayan](https://github.com/rayanx43)
 - [Scott Skanes](https://github.com/skanes17)
 - [Yash Gupta](https://github.com/imstillworthy)
+- [Zoey Lu](https://github.com/zo1lu)
 - [Rushabh Modi](https://github.com/rushabh0021)
 - [Dian Karailiev](https://github.com/Dkyuliyanov)
 - [Dario Maselli](https://github.com/Neroland)
